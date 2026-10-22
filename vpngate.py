@@ -461,7 +461,7 @@ EDGE_HOSTS = [
     for h in os.environ.get(
         "EDGE_HOSTS",
         "fn.130519.xyz:443,cf.92555.xyz:443,auto.dolby.dpdns.org:443,img.css.sd:443,cf.nyanya.moe:443,www.wuduanyun.com:443,baota.us.kg:443,eii.at:443,vps.cheng2001.top:443,cf.3666888.xyz:443,224322.xyz:443,www.galgamex.net:443,cf.xreak.top:443,academy.7shifts.com:443,www.sloomb.com:443,login.rockwellautomation.com:443,www.vmware.com:443,uspto.gov:443,coreweave.com:443,www.udacity.com:443,cf.777791.xyz:443,jobsdb.com:443,mfa.gov.ua:443,www.carousell.sg:443,www.mastervolt.com:443,constitution.congress.gov:443,www.zendesk.com:443,www.giannidelprete.it:443,www.deepl.com:443,www.dbs.com.sg:443,ahrefs.com:443,markmonitor.com:443,www.jp.pima.gov:443,funko.com:443,versantstore.pearson.com:443,53.fs1.hubspotusercontent-na1.net:443,wppaunz.com:443,www.vastnovel.com:443,www.mfyx.cn:443,www.bis.gov:443,stores.staples.com:443,spring.io:443,linear.app:443,kickstarter.com:443,thebeat.gehealthcare.com:443,staticdelivery.nexusmods.com:443,store.ubi.com:443,prizepicks.com:443,www.blibli.com:443,guide.for.edu.sg:443,www.sage.com:443,www.leics.police.uk:443,www.akasantech.com:443,hzytjy.cn:443,www.sofi.com:443,cf-cname.xingpingcn.top:443,openai.com:443,www.broadcom.com:443,serviceshub.samsclub.com:443,"
-        "cdn.cnno.de:443,saas.sin.fan:443",
+        "cdn.cnno.de:443,saas.sin.fan:443,eii.at:443,funko.com:443,constitution.congress.gov:443,www.crazygames.fr:443,academy.7shifts.com:443,api.gzcrtw.com:443,cf.nyanya.moe:443,saas.sin.fan:443,registry.yarnpkg.com:443,www.speedtest.net:443,sourceforge.net:443,help.kolet.com:443,uptimerobot.com:443,moodle.org:443,cf.777791.xyz:443,www.applevis.com:443,2x.nz:443",
     ).split(",")
     if h.strip()
 ]
